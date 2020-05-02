@@ -32,6 +32,22 @@ Autohotkey Scripts
  * alt+q/w/e -position window to top-left/top-center/top-right, respectively
 * alt+a/s/d - position window to left/center/right, respectively
 * alt+z/x/c/ - position window to bottom-left, middle/right, respectively
+
+* Windows key + mouse side button 1: Windows + Left (move window to the left)
+* Windows key + mouse side button 2: Windows + Right (move window to the right)
+
+* Ctrl + middle mouse click: Ctrl+ Delt (Delete word)
+* 
+* alt + mouse side button 1: ctrl+left (go back 1 word)
+* alt + mouse side button 2: ctrl+right (go forward 1 word) 
+* alt + mouse side button 2: ctrl+right (go forward 1 word) 
+
+* Shift + Alt + mouse side button 1: Shift + Left (highlight 1 char to the left) 
+* Shift + Alt + mouse side button 2: Shift + Right (highlight 1 char to the right) 
+
+* Disables the F1 key - press ctrl+f1 to send F1
+F1: Delete
+
    
 
 
