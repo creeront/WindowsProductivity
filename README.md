@@ -70,7 +70,7 @@ Customizations for Word
     f3: toggle the navigation pane 
   
 
-Visio Registry Hack - Forces each Visio document to open in a separate window 
+[Visio Registry Hack](https://aviktech.wordpress.com/2014/09/12/open-visio-documents-in-separate-windows/) - Forces each Visio document to open in a separate window 
 
 
 
