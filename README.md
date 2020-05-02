@@ -75,6 +75,7 @@ Windows + G: Open the patent # stored in the CLIPBOARD in Google Patents.
     ctrl+shift+s: strikethrough 
     f3: toggle the navigation pane 
   
+# Visio Tweaks:
 
 [Visio Registry Hack](https://aviktech.wordpress.com/2014/09/12/open-visio-documents-in-separate-windows/) - Forces each Visio document to open in a separate window 
 
