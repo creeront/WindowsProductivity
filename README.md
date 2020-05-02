@@ -26,6 +26,8 @@ If you don't want to spend $$ on ATT, you could alternatively use [Switcheroo](h
 
 [Listary](https://www.listary.com/) - Useful for quickly finding files, running applications, jumping to folders, etc.
 
+[Motion](https://www.inmotion.app/) - Browser extension for reducing distractions.
+
 [Winsplit Revolution - no longer maintained](https://winsplit-revolution.en.softonic.com/) - A Must-have for positioning windows. 
 
 # Autohotkey Scripts 
