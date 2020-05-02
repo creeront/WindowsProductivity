@@ -74,6 +74,16 @@ Windows + G: Open the patent # stored in the CLIPBOARD in Google Patents.
   I use the following shortcut keys: 
     ctrl+shift+s: strikethrough 
     f3: toggle the navigation pane 
+    
+    ## 'Find and Replace 'Recipes' (using  Wildcards)
+    ### find 10x, replace with 14x\
+10([0-9])
+14\1
+###
+ 
+
+/* Find something that's been enclosed in brackets */ 
+\[\[[0-9a-z]{1,}\]\] 
   
 # Visio Tweaks:
 
