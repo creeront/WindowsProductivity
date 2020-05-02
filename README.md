@@ -1,13 +1,18 @@
 # WindowsProductivity
 My list of productivity tools, Browser extensions, and other must-have tools.
 
+[Ninite](https://ninite.com/) for quickly installing programs, such as: VLC, Zoom Discord, Spotify, Dropbox, ImgBurn, 7-Zip, Python, Notepad++, Putty (though I prefer Kitty), WinSCP, Greenshot, Launchy (though I prefer listary), Chrome, Firefox.  
+
+ instead of Ninite, also consider [Chocolatey](https://chocolatey.org/), which has most of the belowprograms.  At some point in the future, I'll write a script to auto-install the below tools. 
+ 
+ 
 [Autohotkey](https://www.autohotkey.com/) - for creating custom keyboard shortcuts and text expansions.
 
 [Bitwarden](https://bitwarden.com/) - the best free password manager.
 
 [uMatrix](https://chrome.google.com/webstore/detail/umatrix/ogfcmafjalglgifnmanfmnieipoejdcf?hl=en) - Extension for blocking pesky videos, javascript, cross-site requests, frames, etc. in web pages.
 
-[uOrigin](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm?hl=en) - Anotehr extension for blockiong popups and ads. 
+[ublock Origin](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm?hl=en) - Anotehr extension for blockiong popups and ads. 
 
 [Alt-Tab Terminator - $10, but well worth](https://www.ntwind.com/software/alttabter.html) - To quickly find a window based on its name.  It's very useful when you've got 100 Windows Open, and need to quickly find the one window you're looking for. 
 
