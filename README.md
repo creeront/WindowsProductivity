@@ -1,6 +1,8 @@
 # WindowsProductivity
 My list of productivity tools, Browser extensions, and other must-have tools.
 
+# Programs
+
 [Ninite](https://ninite.com/) for quickly installing programs, such as: VLC, Zoom Discord, Spotify, Dropbox, ImgBurn, 7-Zip, Python, Notepad++, Putty (though I prefer Kitty), WinSCP, Greenshot, Launchy (though I prefer listary), Chrome, Firefox.  
 
  instead of Ninite, also consider [Chocolatey](https://chocolatey.org/), which has most of the belowprograms.  At some point in the future, I'll write a script to auto-install the below tools. 
@@ -26,10 +28,12 @@ If you don't want to spend $$ on ATT, you could alternatively use [Switcheroo](h
 
 [Winsplit Revolution - no longer maintained](https://winsplit-revolution.en.softonic.com/) - A Must-have for positioning windows. 
 
-Autohotkey Scripts 
+# Autohotkey Scripts 
  - [Patents.ahk](https://github.com/creeront/WindowsProductivity/blob/master/patents.ahk) - this is my day-to-day AHK file, which among other things contains the following keyboard shortcuts: 
  
  Note: there are a bunch of hotstrings and expansions that are particular to my patent practice, so you should remove those before using.
+ 
+ ## Keyboard Shortcuts
  
 * alt+q/w/e: position window to top-left/top-center/top-right, respectively
 * alt+a/s/d: position window to left/center/right, respectively
@@ -55,15 +59,17 @@ Autohotkey Scripts
 * ctrl+shift+h: Add a new hotstring to the AHK file. 
 * ctrl+alt+shift+r: reload the AHK script.
 
-Text Expansions: 
+## Text Expansions: 
 * ;sec: § (section symbol)
 * ;para: ¶ (paragraph symbol)
+
+##Other Actions
 
 Windows + M: Create new outlook e-mail message. 
 Windows + G: Open the patent # stored in the CLIPBOARD in Google Patents.
 
 
-Customizations for Word 
+# Customizations for Word 
   
   I use the following shortcut keys: 
     ctrl+shift+s: strikethrough 
