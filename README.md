@@ -27,7 +27,12 @@ If you don't want to spend $$ on ATT, you could alternatively use [Switcheroo](h
 [Winsplit Revolution - no longer maintained](https://winsplit-revolution.en.softonic.com/) - A Must-have for positioning windows. 
 
 Autohotkey Scripts 
- - Patents.ahk - this is my day-to-day 
+ - [Patents.ahk](https://github.com/creeront/WindowsProductivity/blob/master/patents.ahk) - this is my day-to-day AHK file, which among other things contains the following keyboard shortucts: 
+ 
+ * alt+q/w/e -position window to top-left/top-center/top-right, respectively
+* alt+a/s/d - position window to left/center/right, respectively
+* alt+z/x/c/ - position window to bottom-left, middle/right, respectively
+   
 
 
 Customizations for Word 
