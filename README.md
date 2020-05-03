@@ -20,7 +20,7 @@ My list of productivity tools, Browser extensions, and other must-have tools.
 
 If you don't want to spend $$ on ATT, you could alternatively use [Switcheroo](https://github.com/kvakulo/Switcheroo)
 
-[Ditto](https://sourceforge.net/projects/ditto-cp/) - clipboard manager.  Allows you to quickly search and re-use previously-copied text/images, etc.
+[Ditto](https://sourceforge.net/projects/ditto-cp/) - clipboard manager.  Allows you to quickly search and re-use previously-copied text/images, etc.  I'm considering [ClipClip](https://clipclip.com/) as a potential improved replacement.
 
 [Greenshot](https://getgreenshot.org/) - The best screenshot-taking utility that I've come across.  I do wish that it had better support for high-dpi monitors.
 
