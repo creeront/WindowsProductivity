@@ -3,6 +3,9 @@ My list of productivity tools, Browser extensions, and other must-have tools.
 
 # Programs
 
+[Winsplit Revolution - no longer maintained](https://winsplit-revolution.en.softonic.com/) - A Must-have for positioning windows. The below AHK script has Winsplit as a dependency. 
+
+
 [Ninite](https://ninite.com/) for quickly installing programs, such as: VLC, Zoom Discord, Spotify, Dropbox, ImgBurn, 7-Zip, Python, Notepad++, Putty (though I prefer Kitty), WinSCP, Greenshot, Launchy (though I prefer listary), Chrome, Firefox.  
 
  instead of Ninite, also consider [Chocolatey](https://chocolatey.org/), which has most of the belowprograms.  At some point in the future, I'll write a script to auto-install the below tools. 
@@ -27,8 +30,6 @@ If you don't want to spend $$ on ATT, you could alternatively use [Switcheroo](h
 [Listary](https://www.listary.com/) - Useful for quickly finding files, running applications, jumping to folders, etc.
 
 [Motion](https://www.inmotion.app/) - Browser extension for reducing distractions.
-
-[Winsplit Revolution - no longer maintained](https://winsplit-revolution.en.softonic.com/) - A Must-have for positioning windows. 
 
 # Autohotkey Scripts 
  - [Patents.ahk](https://github.com/creeront/WindowsProductivity/blob/master/patents.ahk) - this is my day-to-day AHK file, which among other things contains the following keyboard shortcuts: 
